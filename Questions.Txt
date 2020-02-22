@@ -1,0 +1,21 @@
+
+
+    What is the DOM?
+
+    The DOM is the document Object Model. It is a programming interface for HTML documents. IT allows programs to change the structure, style, and the content. 
+
+    What is an event?
+
+    Interactions between the user and the page. Examples would be clicking an element, hovering over an element. 
+
+    What is an event listener?
+
+    A function you set up to watch for an event, and then trigger an action based on that event. 
+
+    Why would we convert a NodeList into an Array?
+
+    More methods available to manipulate the array, and more can be done with it in some situations. In most cases its very easy to convert from a nodelist to an array.
+
+    What is a component?
+
+    Modular code that makes up part of a web site or application. Most of the time components are built so that you can reuse them over and over with different data going into each one as arguments into a function. 
